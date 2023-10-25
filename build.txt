@@ -1,0 +1,3 @@
+displayName = Simple Dash
+author = eugene1beetle
+version = 0.1

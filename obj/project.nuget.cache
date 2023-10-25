@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEPmVPSsGkdj1zrh51H8D6u3x7sLeco8XrkU0eJG7wYmvHmbmZ3+VbNPfs4rlgb0iErC3WnY5uQNymaGQcWSxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugene1beetle\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\SimpleDash\\SimpleDash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugene1beetle\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
