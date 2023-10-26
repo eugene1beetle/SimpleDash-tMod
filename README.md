@@ -1,0 +1,1 @@
+A simple mod for tModLoader that adds dash ithout any accessories
