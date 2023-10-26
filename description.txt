@@ -1,2 +1,4 @@
-Adds ability to dash without any accessory
-Dash velocity and cooldown configurable
+Allows you to dash without any dash accessories, weak but enough to trigger a hermes boots sprint
+Highly configurable
+
+[url=github.com/eugene1beetle/SimpleDash-tMod]GitHub link[/url]
