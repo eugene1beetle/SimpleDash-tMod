@@ -1,1 +1,43 @@
-# This file will automatically update with entries for new content after a build and reload
+Configs: {
+	SimpleDashConfig: {
+		DisplayName: Simple Dash Config
+
+		DashVelocity: {
+			Label: Dash velocity
+			Tooltip:
+				'''
+				Used to configure dash velocity, for example:
+				Default - 4.5 (enough to trigger boots sprint)
+				Shield of Cthulhu - ~7.0
+				Tabi - ~10.0
+				'''
+		}
+
+		DashCooldown: {
+			Label: Dash cooldown
+			Tooltip:
+				'''
+				Used to configure dash cooldown, for example:
+				Default - 90 ticks (1.5 second)
+				Shield of Cthulhu - ~60 ticks (1 second)
+				'''
+		}
+
+		AllowVerticalDash: {
+			Label: Allow vertical dash
+			Tooltip:
+				'''
+				Allert!
+				Not recommended to use this, can be buggy
+
+				Configure vertical dash, kinda double jump and instant max fall speed
+				Only working when simple dash working, will not work with Shield of Cthulhu or any accessory that allow dash equiped
+				'''
+		}
+
+		ResetDashWhenVelocity0: {
+			Label: Reset dash when velocity is 0
+			Tooltip: For example when player fully stops or change direction of movement dash will reset even if it still in cooldown
+		}
+	}
+}
